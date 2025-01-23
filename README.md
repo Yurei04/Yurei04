@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yurei_yuri
 - 👀 I’m interested in creating games, coding, and art
 - 🌱 I’m currently learning JavaScript Frameworks
-- 📫 How to reach me riyuyuri0404@gmail.com
+- 📫 How to reach me jamesavila540@gmail.com
 - Randomly doing things I find Interesting
 
 <!---

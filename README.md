@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yurei04&label=Profile%20views&color=0e75b6&style=flat" alt="yurei04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yurei04" alt="yurei04" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yurei04&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 - 🔭 I’m currently working on [Workable](https://github.com/Yurei04/Workable)
 
@@ -23,9 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=yurei04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=yurei04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yurei04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yurei04&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
 ### 🔝 Top Contributed Repo

@@ -6,7 +6,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yurei04&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on [Workable](https://github.com/Yurei04/Workable)
+- 🔭 I’m currently working on Project Byteon
 
 - 🌱 I’m currently learning **NLP, AI, and Data Analysis**
 

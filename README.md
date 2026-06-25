@@ -1,16 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a0e1a,60:0d2137,100:1a73e8&height=160&section=header&text=Yurei04&fontColor=4da6ff&fontSize=52&fontAlignY=65&animation=fadeIn&fontAlign=50&desc=Visual+Designer+·+AI+%26+ML+·+Fullstack+Dev&descAlignY=85&descSize=14&descColor=6e9fcc" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=4DA6FF&center=true&vCenter=true&width=400&height=60&lines=Yurei04" />
 
-</div>
+<p><code>Visual Designer &nbsp;·&nbsp; AI & ML &nbsp;·&nbsp; Fullstack Dev</code></p>
 
-<div align="center">
-
-![](https://img.shields.io/badge/⚡_Focus-Design_%26_Intelligence-1a73e8?style=flat-square&labelColor=0a1628&color=1a73e8)
+![](https://img.shields.io/badge/Focus-Design_%26_Intelligence-1a73e8?style=flat-square&labelColor=0a1628)
 &nbsp;
-![](https://img.shields.io/badge/🛠_Status-Building-4da6ff?style=flat-square&labelColor=0a1628&color=0d4a7a)
+![](https://img.shields.io/badge/Status-Building-0d4a7a?style=flat-square&labelColor=0a1628)
 &nbsp;
-![](https://img.shields.io/badge/🌏_Based-Philippines-6e9fcc?style=flat-square&labelColor=0a1628&color=0a2a4a)
+![](https://img.shields.io/badge/Based-Philippines-0a2a4a?style=flat-square&labelColor=0a1628)
 
 </div>
 

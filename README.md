@@ -1,35 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a1628&height=130&section=header&text=YUREI04&fontColor=4da6ff&fontSize=44&fontAlignY=42&desc=SPEARHEAD%20//%20OPERATOR%20FILE&descSize=14&descAlignY=68&descColor=6e9fcc" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7FB8FF&center=true&vCenter=true&width=520&height=40&lines=%3E+sync+established;%3E+visual+designer+%C2%B7+ai+%26+ml+%C2%B7+fullstack+dev;%3E+building+products+that+look+good+and+think+smart" />
+<img src="assets/header.svg" width="100%" alt="Yurei04" />
 
 <br/>
 
-![](https://img.shields.io/badge/CALLSIGN-Yurei-4da6ff?style=flat-square&labelColor=0a1628)
+![](https://img.shields.io/badge/FOCUS-Design_%26_Intelligence-1a73e8?style=flat-square&labelColor=0a1628)
 &nbsp;
-![](https://img.shields.io/badge/STATUS-Deployed-1a73e8?style=flat-square&labelColor=0a1628)
+![](https://img.shields.io/badge/STATUS-Building-4da6ff?style=flat-square&labelColor=0a1628)
 &nbsp;
-![](https://img.shields.io/badge/SECTOR-Philippines-0d4a7a?style=flat-square&labelColor=0a1628)
+![](https://img.shields.io/badge/BASE-Philippines-0d4a7a?style=flat-square&labelColor=0a1628)
+
+<img src="assets/terminal.svg" width="100%" alt="terminal" />
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 </div>
 
-<br/>
-
-```yaml
-operator:
-  callsign: Yurei04
-  unit:     Spearhead
-  role:     [Visual Design, AI & ML, Fullstack Development]
-  doctrine: clean interfaces · sharp logic · meaningful output
-  status:   online
-```
-
-<br/>
-
----
-
-### `// LOADOUT`
+<img src="assets/title-stack.svg" width="100%" alt="Stack" />
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -104,33 +91,55 @@ operator:
 </tr>
 </table>
 
-<br/>
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
----
+<img src="assets/title-projects.svg" width="100%" alt="Featured Projects" />
 
-### `// FIELD DATA`
+<!--
+  Replace REPO_1 ... REPO_4 below with your actual repository names.
+  Each card pulls the repo description, language, stars and forks automatically.
+-->
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yurei04&show_icons=true&theme=transparent&hide_border=true&title_color=4da6ff&icon_color=1a73e8&text_color=9fb4c9&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" />
-&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurei04&layout=compact&theme=transparent&hide_border=true&title_color=4da6ff&text_color=9fb4c9&bg_color=0d1117&langs_count=6" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yurei04&theme=transparent&hide_border=true&stroke=1a73e8&ring=4da6ff&fire=4da6ff&currStreakNum=ffffff&sideNums=9fb4c9&currStreakLabel=4da6ff&sideLabels=6e9fcc&dates=4a5568&background=0d1117" />
-
-<br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yurei04&theme=react-dark&hide_border=true&bg_color=0d1117&color=4da6ff&line=1a73e8&point=4da6ff&area=true&area_color=0a1628" />
+<a href="https://github.com/Yurei04/REPO_1">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yurei04&repo=REPO_1&theme=transparent&border_color=1a3a5c&title_color=4da6ff&icon_color=1a73e8&text_color=9fb4c9&bg_color=0d1117" />
+</a>
+<a href="https://github.com/Yurei04/REPO_2">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yurei04&repo=REPO_2&theme=transparent&border_color=1a3a5c&title_color=4da6ff&icon_color=1a73e8&text_color=9fb4c9&bg_color=0d1117" />
+</a>
+<a href="https://github.com/Yurei04/REPO_3">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yurei04&repo=REPO_3&theme=transparent&border_color=1a3a5c&title_color=4da6ff&icon_color=1a73e8&text_color=9fb4c9&bg_color=0d1117" />
+</a>
+<a href="https://github.com/Yurei04/REPO_4">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yurei04&repo=REPO_4&theme=transparent&border_color=1a3a5c&title_color=4da6ff&icon_color=1a73e8&text_color=9fb4c9&bg_color=0d1117" />
+</a>
 
 </div>
 
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+
+<img src="assets/title-contrib.svg" width="100%" alt="Contributions" />
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yurei04&show_icons=true&theme=transparent&border_color=1a3a5c&title_color=4da6ff&icon_color=1a73e8&text_color=9fb4c9&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" />
+&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurei04&layout=compact&theme=transparent&border_color=1a3a5c&title_color=4da6ff&text_color=9fb4c9&bg_color=0d1117&langs_count=6" />
+
 <br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yurei04&theme=transparent&border=1a3a5c&stroke=1a73e8&ring=4da6ff&fire=4da6ff&currStreakNum=ffffff&sideNums=9fb4c9&currStreakLabel=4da6ff&sideLabels=6e9fcc&dates=4a5568&background=0d1117" />
 
-### `// PARA-RAID`
+<br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yurei04&theme=react-dark&hide_border=true&bg_color=0d1117&color=4da6ff&line=1a73e8&point=4da6ff&area=true&area_color=0a1628" />
+
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+
+<img src="assets/title-connect.svg" width="100%" alt="Connect" />
 
 <div align="center">
 
@@ -142,10 +151,8 @@ operator:
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Yurei04&style=flat-square&color=1a73e8&label=signal+received&labelColor=0a1628" />
+<img src="https://komarev.com/ghpvc/?username=Yurei04&style=flat-square&color=1a73e8&label=visitors&labelColor=0a1628" />
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a1628&height=60&section=footer&text=//%20END%20OF%20FILE&fontColor=3d5a80&fontSize=13&fontAlignY=50" />
+<img src="assets/footer.svg" width="100%" alt="" />

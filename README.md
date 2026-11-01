@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Yurei04" />
+<img src="header.svg" width="100%" alt="Yurei04" />
 
 <br/>
 
@@ -10,13 +10,13 @@
 &nbsp;
 ![](https://img.shields.io/badge/BASE-Philippines-0d4a7a?style=flat-square&labelColor=0a1628)
 
-<img src="assets/terminal.svg" width="100%" alt="terminal" />
+<img src="terminal.svg" width="100%" alt="terminal" />
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 </div>
 
-<img src="assets/title-stack.svg" width="100%" alt="Stack" />
+<img src="title-stack.svg" width="100%" alt="Stack" />
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -91,9 +91,9 @@
 </tr>
 </table>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
-<img src="assets/title-projects.svg" width="100%" alt="Featured Projects" />
+<img src="title-projects.svg" width="100%" alt="Featured Projects" />
 
 <!--
   Replace REPO_1 ... REPO_4 below with your actual repository names.
@@ -117,9 +117,9 @@
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
-<img src="assets/title-contrib.svg" width="100%" alt="Contributions" />
+<img src="title-contrib.svg" width="100%" alt="Contributions" />
 
 <div align="center">
 
@@ -137,9 +137,9 @@
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
-<img src="assets/title-connect.svg" width="100%" alt="Connect" />
+<img src="title-connect.svg" width="100%" alt="Connect" />
 
 <div align="center">
 
@@ -155,4 +155,4 @@
 
 </div>
 
-<img src="assets/footer.svg" width="100%" alt="" />
+<img src="footer.svg" width="100%" alt="" />
